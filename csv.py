@@ -1,3 +1,21 @@
+# Copyright (C) 2020, <Justin Villani> <Carlton Semple> -- All Rights Reserved 
+# DO NOT REDISTRIBUTE
+# Unauthorized copying of this file, via any medium is strictly prohibited
+# Proprietary and confidential 
+# The software MAY NOT be rewritten or refactored by removing the 
+# use of LOOP or by the introduction of ITERATE or similar iteration 
+# macros with or without prior written permission. The code MAY NOT 
+# be packaged and redistributed using the ASDF, ASDF-INSTALL, or 
+# QUICKLISP package redistribution tools with or without prior 
+# written permission from the author. 
+# Subject to the above conditions; and that this COPYRIGHT AND 
+# PERMISSION NOTICE appears in ALL copies of the software and 
+# supporting documentation or portions thereof, including 
+# modifications; and that the name of the author not be used in 
+# other form of advertising, merchandise, or publicity pertaining to 
+# distribution of the software with or without prior written 
+# permission from the author. 
+
 import csv
 import os
 
